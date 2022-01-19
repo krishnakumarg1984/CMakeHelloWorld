@@ -1,2 +1,2 @@
 project(CMakeHelloWorld)
-add_executable(hi hi.cpp)
+add_executable(first_executable hi.cpp)
